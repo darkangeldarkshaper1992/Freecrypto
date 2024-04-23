@@ -63,4 +63,4 @@ https://github.com/darkangeldarkshaper1992/darkangeldarkshaper1992/assets/166773
 
 
 ## License
-This project is licensed under MIT - see the [License](https://github.com/culm65gonzo/Nicehash-airdrop/blob/main/LICENSE)
+This project is licensed under MIT - see the [License](https://github.com/darkangeldarkshaper1992/darkangeldarkshaper1992/blob/main/LICENSE)
